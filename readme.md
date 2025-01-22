@@ -10,7 +10,7 @@ I am sorry for submitting the assignment this late as my university exams were g
 You can either use the docker file to setup this repo or do it manually. I am adding the manual steps below
 - Clone the repo
   ```
-    git clone [https://github.com/IamAbhinavSINGH/uptime-monitoring.git](https://github.com/IamAbhinavSINGH/Uptime-Monitoring.git)
+    git clone https://github.com/IamAbhinavSINGH/uptime-monitoring.git
   ```
 
 - Make a virtual environment (for Windows)
