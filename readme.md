@@ -1,7 +1,7 @@
 # Uptime Monitor with Discord Notifications
 
 ## Project Overview
-This project is an completion of an assignment for a backend developer intern role given by "Dhruv Gera".
+This project is an Uptime Monitoring service with Discord Notifications.
 It is a service that monitors the availability of websites and sends notifications through Discord webhooks when a site becomes unreachable or recovers. Built with **FastAPI** and **MongoDB**, it provides an API to manage monitored sites and includes a background task to handle periodic status checks.
 
 I am sorry for submitting the assignment this late as my university exams were going on so I did not had much time to work on this project and thus I could only spent around 5-6 hrs on this project.
